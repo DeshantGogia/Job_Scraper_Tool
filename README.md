@@ -8,6 +8,10 @@ A small Streamlit-based job scraping tool that scrapes job listings from multipl
 - Display results in a Streamlit UI with filters and download option
 - Export results to CSV
 
+<img width="1850" height="803" alt="Screenshot 2025-10-08 132545" src="https://github.com/user-attachments/assets/4ed1246d-a545-40db-8bde-9849dfb9398d" />
+
+<img width="1860" height="820" alt="Screenshot 2025-10-08 132639" src="https://github.com/user-attachments/assets/82739ce9-0075-4748-92e5-21ce9664d979" />
+
 ## Prerequisites
 
 - Python 3.10+ recommended
